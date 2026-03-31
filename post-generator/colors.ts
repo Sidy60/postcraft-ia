@@ -1,0 +1,23 @@
+export default {
+  primary: "#1877F2",
+  primaryGlow: "rgba(24, 119, 242, 0.12)",
+  primaryGlowStrong: "rgba(24, 119, 242, 0.25)",
+  background: "#111118",
+  surface: "#1C1C26",
+  surfaceLight: "#252532",
+  cardBorder: "rgba(255, 255, 255, 0.06)",
+  text: "#F5F5F7",
+  textSecondary: "#A0A0B0",
+  textMuted: "#6B6B7B",
+  white: "#FFFFFF",
+  success: "#34C759",
+  error: "#FF453A",
+  warning: "#FF9F0A",
+  light: {
+    text: "#000000",
+    background: "#FFFFFF",
+    tint: "#1877F2",
+    tabIconDefault: "#CCCCCC",
+    tabIconSelected: "#1877F2",
+  },
+};
